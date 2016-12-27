@@ -1,3 +1,5 @@
+# Notice: this is forked from [GeertJohan/hid.go](https://github.com/GeertJohan/hid.go) just to modify the `cgo.wchar` dependency to include a patch that fixes some issues.
+
 ## go.hid
 This [go](http://golang.org) package wraps the [signal11/hidapi](https://github.com/signal11/hidapi) and provides communication with USB Human Interface Devices.
 

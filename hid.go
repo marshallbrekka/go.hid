@@ -23,7 +23,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/GeertJohan/cgo.wchar"
+	"github.com/vitaminwater/cgo.wchar"
 )
 
 var errNotImplemented = errors.New("not implemented yet")
